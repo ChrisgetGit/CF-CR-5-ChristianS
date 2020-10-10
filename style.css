@@ -1,0 +1,87 @@
+body {
+    background-color: #2c3033;
+}
+
+.navbar-nav{
+    margin: 0px;
+}
+
+.drop-down-item{
+    height: 1vh;
+}
+
+.like-button{
+    background-color: black;
+    color: ;
+}
+
+.glyphicon{
+    color: green;
+    font-weight: bold;
+}
+
+
+#like{
+    color: green;
+    background-color: black;
+    font-weight: bold;
+    font-size: 1.3vh;
+}
+
+.sort-it-ascending{
+    color: green;
+    background-color: black;
+}
+
+.sort-it-descending{
+    color: green;
+    background-color: black;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  background: green;
+
+}
+
+.startrow{
+    padding-top: 3vh;
+    margin: auto;
+    width: 100%;
+    padding-left: 5vh;
+    
+}
+
+.text{
+    background-color: black;
+    padding: 1vh;
+    color: white;
+}
+
+.movie-container{
+    margin: 2vh;
+    padding-left: 0vh;
+    padding-bottom: 0px;
+
+    background-color: black;
+}
+
+.like-row{
+    height: 5vh;
+}
+
+
+img{
+   height: 25vh;
+   width: 15vw; 
+}
+
+button:focus{
+    outline: 0px;
+}

@@ -1,0 +1,49 @@
+var data = `[{
+	"id": "1",
+	"name" : "A Star Is Born",
+	"category" : "Comedy",
+	"description": "With a singing Bradley Cooper and Lady Gaga movie.",
+	"img" : "Images/born.jpg",
+	"quantity" : 14
+},
+{
+	"id": "2",
+	"name" : "Pulp Fiction",
+	"category" : "Laptop",
+	"description": "A Quentin Tarantino Movie, a must-have-seen.",	
+	"img" : "Images/fiction.jpg",
+	"quantity" : 12
+},
+{
+	"id": "3",
+	"name" : "Full Metal Jacket",
+	"category" : "Phone",
+	"description": "Anti-War-Movie by the one and only Stanley Kubrick.",
+	"img" : "Images/jacket.jpg",
+	"quantity" : 22
+},
+{
+	"id": "4",
+	"name" : "Dead Poets Society",
+	"category" : "Phone",
+	"description": "Great Movie with a brilliant Robin Williams.",
+	"img" : "Images/dead.jpg",
+	"quantity" : 9
+},
+{
+	"id": "5",
+	"name" : "The Big Lebowski",
+	"category" : "Tablet",
+	"description": "Jeff Bridges and John Goodman in a great duo.",
+	"img" : "Images/lebowski.jpg",
+	"quantity" : 7
+},
+{
+	"id": "6",
+	"name" : "The Pianist",
+	"category" : "Tablet",
+	"description": "Impressive and shocking movie about WW2.",
+	"img" : "Images/pianist.jpg",
+	"quantity" : 19
+}
+]`
