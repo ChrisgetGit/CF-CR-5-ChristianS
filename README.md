@@ -7,15 +7,6 @@ For this CodeReview, the following criteria will be graded:
     (20 points) Correct Bootstrap theme creation based on the provided design
 
     (10 points) Correct creation of JSON file to hold movie’s data. Please note that for this task you will provide the object’s data/information. E.g:  
-
-{
-    "movieName": "A Star is Born",
-    "image": "img/star.jpg",
-    "description": "Short description",
-    "likes": 0,
-   
-  }
-
  
 
     (25 points) Correct creation of the HTML/Bootstrap structure based on JavaScript objects. It should be shown on the screen the movie name, a short description, movie poster according to the provided design. Feel free to expand the information as: genre, release date, etc...
